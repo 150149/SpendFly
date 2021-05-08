@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpendFly">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpendFly</output-path>
+    <root id="archive" name="SpendFly.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="飞行扣金币饱食度" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>

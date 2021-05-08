@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Forge">
+    <CLASSES>
+      <root url="jar://E:/Minecraft/服务端/2020.3.24RPG端/Forge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/Minecraft/服务端/2020.3.24RPG端/Forge.jar!/" />
+    </SOURCES>
+  </library>
+</component>

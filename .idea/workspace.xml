@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpendFly" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32ec7afe-f4a4-4925-932b-c72738684e47" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="飞行扣金币饱食度" />
+          <option name="title" value="飞行扣金币饱食度 (Bundled Groovy 2.4.17)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFcNsTi9nBida4lVskNANGafgO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config.yml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32ec7afe-f4a4-4925-932b-c72738684e47" name="Default Changelist" comment="" />
+      <created>1586334745967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586334745967</updated>
+      <workItem from="1586334749236" duration="24224000" />
+      <workItem from="1586393778069" duration="2133000" />
+      <workItem from="1586396902764" duration="207000" />
+      <workItem from="1586397327823" duration="43000" />
+      <workItem from="1586397446241" duration="87000" />
+      <workItem from="1586398531877" duration="127000" />
+      <workItem from="1586398715359" duration="79000" />
+      <workItem from="1586398811047" duration="17000" />
+      <workItem from="1586398843976" duration="105000" />
+      <workItem from="1586399052960" duration="14000" />
+      <workItem from="1586399629249" duration="11000" />
+      <workItem from="1586399705475" duration="36000" />
+      <workItem from="1586399755287" duration="34000" />
+      <workItem from="1586399806451" duration="108000" />
+      <workItem from="1586399942823" duration="38000" />
+      <workItem from="1586400063474" duration="38000" />
+      <workItem from="1586400126622" duration="74000" />
+      <workItem from="1586400215152" duration="23000" />
+      <workItem from="1586400275744" duration="93000" />
+      <workItem from="1586400386304" duration="860000" />
+      <workItem from="1586401391470" duration="39000" />
+      <workItem from="1586401450351" duration="1279000" />
+      <workItem from="1586402751684" duration="581000" />
+      <workItem from="1586403352450" duration="265000" />
+      <workItem from="1586406910546" duration="2399000" />
+      <workItem from="1586423805664" duration="3215000" />
+      <workItem from="1586427046118" duration="779000" />
+      <workItem from="1586428262509" duration="219000" />
+      <workItem from="1587897710717" duration="3951000" />
+      <workItem from="1588076460031" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
